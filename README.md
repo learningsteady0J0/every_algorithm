@@ -1,1 +1,1 @@
-# evey_algorithm
+# every_algorithm
